@@ -28,4 +28,5 @@ Contributions to the project are welcome. If you encounter any issues or have su
 
 License:
 This project is licensed under the [MIT License](link-to-license-file).
+
 ![Captura de Pantalla 2023-07-03 a la(s) 22 52 39](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/2d8e3171-066d-42aa-a05c-162c61caefa4)
