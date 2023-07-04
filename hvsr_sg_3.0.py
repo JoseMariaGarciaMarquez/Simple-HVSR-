@@ -68,10 +68,11 @@ def calculate_hvsr(z, n, e, ventana, ventaneo):
                    'Datos:\n{}\n{}\n{}\n'
                    '-------------------------------------------------------------------------------------------------\n'
                    'Con un ventaneo que asegura {} muestras\n'
+                   'Y eltipo de ventana usada de {}\n'
                    'La frecuencia del sitio es {}[Hz]\n'
                    'El periodo del sitio es {}[m]\n'
                    '-------------------------------------------------------------------------------------------------\n'
-                   .format(z.stats, n.stats, e.stats, ventana, frecuencia_sitio, periodo_sitio))
+                   .format(z.stats, n.stats, e.stats, ventana, ventaneo, frecuencia_sitio, periodo_sitio))
 
     plt.show()
 
