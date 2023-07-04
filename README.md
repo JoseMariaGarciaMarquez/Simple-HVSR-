@@ -29,4 +29,19 @@ Contributions to the project are welcome. If you encounter any issues or have su
 License:
 This project is licensed under the [MIT License](link-to-license-file).
 
+Please, cite me:
+Author: José María
+
+Title: HVSR
+
+Website: https://github.com/JoseMariaGarciaMarquez
+
+Version: 3.0
+
+Date: June, 2023
+
+E-Mail: josemariagarcimarquez2.72@gmail.com
+
+Location: Benito Juárez, CDMX, México
+
 ![Captura de Pantalla 2023-07-03 a la(s) 22 52 39](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/2d8e3171-066d-42aa-a05c-162c61caefa4)
