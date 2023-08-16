@@ -40,4 +40,5 @@ This project is licensed under the [MIT License](link-to-license-file).
 - **E-Mail:** josemariagarcimarquez2.72@gmail.com
 
 
-![Captura de Pantalla 2023-07-03 a la(s) 22 52 39](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/2d8e3171-066d-42aa-a05c-162c61caefa4)
+![Captura de Pantalla 2023-08-16 a la(s) 11 37 02](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/6f3d8218-bc8f-4cd7-9c6e-3baacf9ae5ac)
+
