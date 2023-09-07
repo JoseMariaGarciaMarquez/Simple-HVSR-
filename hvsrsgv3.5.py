@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import PySimpleGUI as sg
-from scipy.fft import fft, fftshift, ifft, ifftshift
 from scipy import signal
 from obspy import read  
 
