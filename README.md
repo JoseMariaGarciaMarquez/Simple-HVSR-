@@ -1,6 +1,6 @@
-# HVSR-SG
+# Simple-HVSR(中村)
 
-HVSR-SG is a Python script that offers a user-friendly graphical user interface (GUI) for analyzing seismic data using the Horizontal-to-Vertical Spectral Ratio (HVSR) method. HVSR is a widely-used technique in seismology to investigate the amplification of ground motion across various frequencies.
+Simple-HVSR(中村) is a Python script that offers a user-friendly graphical user interface (GUI) for analyzing seismic data using the Horizontal-to-Vertical Spectral Ratio (HVSR) method. HVSR is a widely-used technique in seismology to investigate the amplification of ground motion across various frequencies.
 
 ## Features
 
@@ -35,17 +35,12 @@ This project is licensed under the [MIT License](link-to-license-file).
 - **Author:** José María
 - **Title:** HVSR
 - **Website:** [josemaria.me](https://www.josemaria.me)
-- **Version:** 3.5
+- **Version:** 3.7.2
 - **Date:** June, 2023
 - **E-Mail:** josemariagarcimarquez2.72@gmail.com
 
-
-![Captura de Pantalla 2023-09-05 a la(s) 15 45 58](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/649b44bd-c4f8-4ccd-859c-ceb80fc3032d)
-![Captura de Pantalla 2023-09-05 a la(s) 15 46 43](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/060410a1-365a-4c39-aae5-54c170705c12)
-![Captura de Pantalla 2023-09-05 a la(s) 15 47 20](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/7def3529-e04c-4b1e-90f6-5196129c15ac)
-![Captura de Pantalla 2023-09-05 a la(s) 15 47 48](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/3c11958b-e835-40b0-b91c-857b7ab5beb1)
-![Captura de Pantalla 2023-09-05 a la(s) 15 49 34](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/f467924f-66b6-4319-8668-5f90bcb6f865)
-![ejemploA](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/ae3946aa-ab0b-4440-b8b8-3dc22e78bdce)
-
-
-
+![interfaz1](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/6326f85c-169b-4bc2-9bac-6d86117f7a74)
+![interfaz2](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/bd875391-b051-45f6-8123-6802df2338e2)
+![terminal4](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/20e52907-06b2-4c70-8c78-9899b0f6416f)
+![ejemplo_b](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/f752a08d-0a84-4f2e-b1c9-cdf4f189c3b8)
+![resultados](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/4831544f-3c56-40fd-a3d2-65ce4798790f)
