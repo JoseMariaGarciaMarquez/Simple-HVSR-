@@ -13,9 +13,12 @@ Simple-HVSR(中村) is a Python script that offers a user-friendly graphical use
 
 ## Usage
 
-1. Launch the script and use the file browse buttons to input paths to Z, N, and E seismic data files.
-2. Select window size and a windowing function for Fourier Transform calculations.
-3. Click "Calculate HVSR" to perform the analysis, generating the HVSR plot and results.
+1. Launch the script and use the file browse buttons to input paths to Z, N, and E seismic data files.![ventana2](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/32747eb0-1edb-49ef-991d-20c25b3c41df)
+
+2. Select window size and a windowing function for Fourier Transform calculations.![ventana](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/e207aced-d725-47b5-b442-2d27b739c80c)
+
+3. Click "Calculate HVSR" to perform the analysis, generating the HVSR plot and results.<img width="1278" alt="terminal5" src="https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/e8da8629-5f60-4cdc-bf9f-3ab2bf2a86de">
+
 4. Use "Visualize data" to plot three seismic data components without HVSR calculation.
 5. Save HVSR plot as an image and analysis results as a text file.
 
