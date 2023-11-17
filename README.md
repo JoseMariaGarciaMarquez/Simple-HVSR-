@@ -21,7 +21,7 @@ Simple-HVSR(中村) is a Python script that offers a user-friendly graphical use
 ## Requirements
 
 - Python 3.8 or higher
-- Required libraries: ObsPy, NumPy, Matplotlib, PySimpleGUI, SciPy
+- Required libraries: ObsPy, NumPy, Matplotlib, tkinter, SciPy
 
 ## Contribution
 
