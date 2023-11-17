@@ -36,7 +36,7 @@ This project is licensed under the [MIT License](link-to-license-file).
 - **Author:** José María
 - **Title:** HVSR
 - **Website:** [josemaria.me](https://www.josemaria.me)
-- **Version:** 3.7.2
+- **Version:** 4.0
 - **Date:** June, 2023
 - **E-Mail:** josemariagarcimarquez2.72@gmail.com
 
