@@ -4,10 +4,11 @@ Simple-HVSR(中村) is a Python script that offers a user-friendly graphical use
 
 ## Features
 
-1. **Seismic Data Plotting:** Visualize the three seismic data components (Z, N, E) on a single plot.
+1. **Seismic Data Plotting:** Visualize the three seismic data components (Z, N, E) on a single plot.![Captura de Pantalla 2023-11-11 a la(s) 19 15 22](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/9c179d11-3db0-4192-b1ab-8e05e469d746)
 2. **HVSR Calculation:** Calculate the HVSR by providing paths to Z, N, and E seismic data files. The script performs linear detrending and computes the Fourier Transform using the Welch method.
-3. **HVSR Plotting:** Plot the calculated HVSR on a logarithmic scale, along with individual spectral ratios of N and E components. Peak HVSR frequency is identified and marked on the plot.
-4. **Results Saving:** Save the HVSR plot as an image file and the analysis results as a text file.
+3. **HVSR Plotting:** Plot the calculated HVSR on a logarithmic scale, along with individual spectral ratios of N and E components. Peak HVSR frequency is identified and marked on the plot.![intento_a](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/25c239c6-d991-4e3f-a773-c80516623c76)
+4. **Results Saving:** Save the HVSR plot as an image file and the analysis results as a text file.![res](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/56861742-b751-455f-95df-854581e526fc)
+
 
 ## Usage
 
@@ -39,8 +40,3 @@ This project is licensed under the [MIT License](link-to-license-file).
 - **Date:** June, 2023
 - **E-Mail:** josemariagarcimarquez2.72@gmail.com
 
-![interfaz1](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/6326f85c-169b-4bc2-9bac-6d86117f7a74)
-![interfaz2](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/bd875391-b051-45f6-8123-6802df2338e2)
-![terminal4](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/20e52907-06b2-4c70-8c78-9899b0f6416f)
-![ejemplo_b](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/f752a08d-0a84-4f2e-b1c9-cdf4f189c3b8)
-![resultados](https://github.com/JoseMariaGarciaMarquez/HVSR-SG/assets/30852961/4831544f-3c56-40fd-a3d2-65ce4798790f)
