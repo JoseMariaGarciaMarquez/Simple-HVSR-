@@ -34,7 +34,7 @@ This project is licensed under the [MIT License](link-to-license-file).
 ## Cite
 
 - **Author:** José María
-- **Title:** HVSR
+- **Title:** Simple-HVSR(中村)
 - **Website:** [josemaria.me](https://www.josemaria.me)
 - **Version:** 4.0
 - **Date:** June, 2023
